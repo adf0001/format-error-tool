@@ -1,0 +1,26 @@
+{
+  "name": "format-error-tool",
+  "version": "1.0.1",
+  "description": "format error",
+  "main": "format-error-tool.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "format",
+    "error"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/format-error-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/format-error-tool/issues"
+  },
+  "homepage": "https://github.com/adf0001/format-error-tool#readme"
+}
